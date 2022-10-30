@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEncryptionLab2_Kot_PC_21_MH", "DataEncryptionLab2_Kot_PC_21_MH\DataEncryptionLab2_Kot_PC_21_MH.csproj", "{D2090ED5-D073-497C-BE95-F7E04FA66584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2090ED5-D073-497C-BE95-F7E04FA66584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2090ED5-D073-497C-BE95-F7E04FA66584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2090ED5-D073-497C-BE95-F7E04FA66584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2090ED5-D073-497C-BE95-F7E04FA66584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB785B8-0D58-4842-AF6B-7B776CE4FCB9}
+	EndGlobalSection
+EndGlobal
